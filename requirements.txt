@@ -1,0 +1,9 @@
+dash
+gridstatusio
+pandas
+plotly
+Requests
+scikit-learn
+lightgbm
+gdown
+gunicorn
